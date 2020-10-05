@@ -17,3 +17,10 @@ use ORM's to simplify my job. I prefer using Sequelize and MongoDB since they ar
 - 📫 How to reach me: goncuerenb@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
+
+{
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
+}
