@@ -19,4 +19,6 @@ use ORM's to simplify my job. I prefer using Sequelize and MongoDB since they ar
 
 ![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenG-coder&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErenG-coder)
+
 
