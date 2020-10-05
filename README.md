@@ -17,5 +17,5 @@ use ORM's to simplify my job. I prefer using Sequelize and MongoDB since they ar
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
-[![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder)]
+[ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder)
 
