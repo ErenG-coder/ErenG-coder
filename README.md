@@ -19,3 +19,4 @@ use ORM's to simplify my job. I prefer using Sequelize and MongoDB since they ar
 
 [![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder)](https://github.com/ErenG-coder)
 
+![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder&show_icons=true)
