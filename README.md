@@ -22,7 +22,7 @@ const ErenG-coder = {
     }
 };
 ```
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ErenG-coder&repo=github-readme-stats)
 ![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder&theme=tokyonight)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ErenG-coder&repo=github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenG-coder&layout=compact)
 
