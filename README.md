@@ -1,16 +1,18 @@
 ### Hi There , I'am Eren 👋
 
 
-<img  src='https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/134250410/original/2c8552599400d0245027cebc75045c3f0b117e22/create-a-website-using-html-css-javascript-node-js.jpeg' align='right' width='470' height='408'>
+
 
 
 ```javascript
 const ErenG-coder = {
     pronouns: "He" | "Him",
     code: ["Javascript","C#","C++",],
-    askMeAbout: ["web dev","app dev", "photography"],
+    askMeAbout: ["web dev","Game Development", "FRC"],
     technologies: {
-        Arduino: ["C++"],
+        Arduino:"C++",
+        Game Development:"Unity",
+        Design:"Blender",
         frontEnd: {
             js: ["Vue"],
             css: ["bootstrap"]
@@ -19,8 +21,8 @@ const ErenG-coder = {
             js: ["node", "express", "SuiteScript"]
         },
         databases: ["MongoDB", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
+        ORM : ["Sequelize","Mongoose"]
+    }
 };
 ```
 
