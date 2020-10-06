@@ -7,9 +7,9 @@ const ErenG-coder = {
     code: ["Javascript","C#","C++",],
     askMeAbout: ["web dev","Game Development", "FRC"],
     technologies: {
-        Arduino:"C++",
-        Game Development:"Unity",
-        Design:"Blender",
+        arduino:"C++",
+        gameDevelopment:"Unity",
+        design:"Blender",
         frontEnd: {
             js: ["Vue"],
             css: ["bootstrap"]
@@ -18,7 +18,7 @@ const ErenG-coder = {
             js: ["node", "express", "SuiteScript"]
         },
         databases: ["MongoDB", "MySql"],
-        ORM : ["Sequelize","Mongoose"]
+        orm : ["Sequelize","Mongoose"]
     }
 };
 ```
