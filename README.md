@@ -4,21 +4,20 @@
 ```javascript
 const ErenG-coder = {
     pronouns: "He" | "Him",
-    code: ["Javascript","C#","C++",],
-    askMeAbout: ["web dev","Game Development", "FRC"],
+    code: ["Javascript","C++",],
+    askMeAbout: ["web dev", "FRC"],
     technologies: {
-        arduino:"C++",
-        gameDevelopment:"Unity",
+        arduino:
+        gameDevelopment:
         design:"Blender",
         frontEnd: {
-            js: ["Vue"],
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"]
+            js: ["node", "express"]
         },
         databases: ["MongoDB", "MySql"],
-        orm : ["Sequelize","Mongoose"]
+        orm : ["Sequelize"]
     }
 };
 ```
