@@ -22,5 +22,4 @@ const ErenG-coder = {
 };
 ```
 ![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenG-coder&layout=compact)
 
