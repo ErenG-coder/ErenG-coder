@@ -8,18 +8,18 @@ const ErenG-coder = {
     askMeAbout: ["web dev", "FRC"],
     technologies: {
         arduino:
-        gameDevelopment:
         design:"Blender",
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["bootstrap" , "TailwindCSS]
         },
         backEnd: {
             js: ["node", "express"]
         },
-        databases: ["MongoDB", "MySql"],
-        orm : ["Sequelize"]
+        framework: "React"
     }
 };
 ```
 ![ErenG-coder github stats](https://github-readme-stats.vercel.app/api?username=ErenG-coder&theme=tokyonight)
 
+#databases: ["MongoDB", "MySql"],
+#orm : ["Sequelize"]
